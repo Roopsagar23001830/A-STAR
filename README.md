@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name : Roop Sagar S L </h3>
-<h3>Register Number: 212223040175 </h3>
+<h3>Name : Roop Sagar S L</h3>
+<h3>Register Number : 212223040175 </h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
@@ -146,14 +146,14 @@ J 0 <br>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
-![Screenshot 2025-03-28 161301](https://github.com/user-attachments/assets/2dde27ae-c9ec-48e1-a48f-bd5a129e5593)
-
+![Screenshot 2025-04-24 193039](https://github.com/user-attachments/assets/5f002fc3-471c-4307-b8c1-669789cc1923)
 
 <hr>
 <h2>Sample Graph II</h2>
 <hr>
 
-![Screenshot 2025-04-24 193039](https://github.com/user-attachments/assets/49e98617-9872-496c-ac82-df435dc0c025)
+![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
+
 
 <hr>
 <h2>Sample Input</h2>
@@ -176,8 +176,7 @@ G 0 <br>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
 
-![Screenshot 2025-03-28 161500](https://github.com/user-attachments/assets/e551ec4b-97d3-4c24-962b-2e0f391fbe4e)
-
+![Screenshot 2025-04-24 193753](https://github.com/user-attachments/assets/fc37a689-4030-44f4-a6e1-20a52cbfc80d)
 
 <h2>RESULT :</h2>
 Thus a graph was constructed and implemantation of A star Search for the same graph was done successfully.
